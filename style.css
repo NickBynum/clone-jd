@@ -1,0 +1,20 @@
+.big-img{
+  background-image: url("//deere.com/assets/images/common/home-page/March-2020-Hero-1366x347.jpg");
+  size: cover;
+}
+
+.big-font{
+  font-size: 2rem;
+}
+.md-img{
+background-image: url("//placehold.it/600x350");
+}
+
+
+.wide{
+  width: auto !important;
+}
+
+img{
+  size: cover;
+}
