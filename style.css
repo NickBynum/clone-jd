@@ -1,20 +1,20 @@
 .big-img{
-  background-image: url("//deere.com/assets/images/common/home-page/March-2020-Hero-1366x347.jpg");
-  size: cover;
+  background-image: url("https://www.deere.com/assets/images/common/home-page/March-2020-Hero-1366x347.jpg");
+  contain: content !important;
 }
 
 .big-font{
   font-size: 2rem;
 }
 .md-img{
-background-image: url("//placehold.it/600x350");
+background-image: url("https://www.deere.com/assets/images/common/home-page/autotrac-300-featured-image.jpg");
 }
 
-
-.wide{
-  width: auto !important;
-}
 
 img{
   size: cover;
+}
+
+.bg-muted{
+  background-color: #f2f2f2;
 }
